@@ -1,0 +1,194 @@
+[
+ {
+  "title": "Round One: Methods and Results",
+  "file": "docs/round-one-methods-and-results.pdf",
+  "original": "Round One - Methods and Results.pdf",
+  "pages": 24,
+  "version": "version 3.3, 22 October 2026",
+  "line": "The test itself: the sealed answer key, twenty runs, four boards, every deviation and every fingerprint."
+ },
+ {
+  "title": "The Track Record: Every Model, With Receipts",
+  "file": "docs/the-track-record.pdf",
+  "original": "The Track Record - Every Model, With Receipts.pdf",
+  "pages": 11,
+  "version": "16 October 2026, revised 20 October",
+  "line": "What each model in the stack did in SecondSignal’s own records, the wins and the misses, with receipts."
+ },
+ {
+  "title": "Who Made What: Model Contributions Audit",
+  "file": "docs/who-made-what.pdf",
+  "original": "Who Made What - Model Contributions Audit.pdf",
+  "pages": 9,
+  "version": "16 October 2026, revised 20 and 21 October",
+  "line": "Which model actually put what on screen in Buckingham Palace Dream."
+ },
+ {
+  "title": "The Landscape: Perplexity, OpenRouter and Local Agents",
+  "file": "docs/the-landscape.pdf",
+  "original": "The Landscape - Perplexity, OpenRouter and Local Agents.pdf",
+  "pages": 6,
+  "version": "16 October 2026, revised 21 October",
+  "line": "Every menu in the stack as of 16 October 2026, and what is worth trying next."
+ },
+ {
+  "title": "Gemini 4 Argon: Model Ledger profile",
+  "file": "docs/profiles/01-gemini-4-argon.pdf",
+  "original": "Gemini 4 Argon - Model Ledger profile.pdf",
+  "pages": 6,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "ChatGPT: Model Ledger profile",
+  "file": "docs/profiles/02-chatgpt.pdf",
+  "original": "ChatGPT - Model Ledger profile.pdf",
+  "pages": 6,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Claude: Model Ledger profile",
+  "file": "docs/profiles/03-claude.pdf",
+  "original": "Claude - Model Ledger profile.pdf",
+  "pages": 6,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Grok: Model Ledger profile",
+  "file": "docs/profiles/04-grok.pdf",
+  "original": "Grok - Model Ledger profile.pdf",
+  "pages": 6,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "DeepSeek: Model Ledger profile",
+  "file": "docs/profiles/05-deepseek.pdf",
+  "original": "DeepSeek - Model Ledger profile.pdf",
+  "pages": 5,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Qwen: Model Ledger profile",
+  "file": "docs/profiles/06-qwen.pdf",
+  "original": "Qwen - Model Ledger profile.pdf",
+  "pages": 5,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Kimi: Model Ledger profile",
+  "file": "docs/profiles/07-kimi.pdf",
+  "original": "Kimi - Model Ledger profile.pdf",
+  "pages": 5,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Vibe: Model Ledger profile",
+  "file": "docs/profiles/08-vibe.pdf",
+  "original": "Vibe - Model Ledger profile.pdf",
+  "pages": 5,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "GLM: Model Ledger profile",
+  "file": "docs/profiles/09-glm.pdf",
+  "original": "GLM - Model Ledger profile.pdf",
+  "pages": 5,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Perplexity: Model Ledger profile",
+  "file": "docs/profiles/10-perplexity.pdf",
+  "original": "Perplexity - Model Ledger profile.pdf",
+  "pages": 5,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Manus: Model Ledger profile",
+  "file": "docs/profiles/11-manus.pdf",
+  "original": "Manus - Model Ledger profile.pdf",
+  "pages": 4,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Hermes Agent: Model Ledger profile",
+  "file": "docs/profiles/12-hermes-agent.pdf",
+  "original": "Hermes Agent - Model Ledger profile.pdf",
+  "pages": 4,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Nemotron 3 Ultra: Model Ledger profile",
+  "file": "docs/profiles/13-nemotron-3-ultra.pdf",
+  "original": "Nemotron 3 Ultra - Model Ledger profile.pdf",
+  "pages": 4,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Nemotron 3.5 Super VL: Model Ledger profile",
+  "file": "docs/profiles/14-nemotron-3-5-super-vl.pdf",
+  "original": "Nemotron 3.5 Super VL - Model Ledger profile.pdf",
+  "pages": 3,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Mistral Medium 3.5: Model Ledger profile",
+  "file": "docs/profiles/15-mistral-medium-3-5.pdf",
+  "original": "Mistral Medium 3.5 - Model Ledger profile.pdf",
+  "pages": 4,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Muse Spark Open: Model Ledger profile",
+  "file": "docs/profiles/16-muse-spark-open.pdf",
+  "original": "Muse Spark Open - Model Ledger profile.pdf",
+  "pages": 4,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Moondream 3 Preview: Model Ledger profile",
+  "file": "docs/profiles/17-moondream-3-preview.pdf",
+  "original": "Moondream 3 Preview - Model Ledger profile.pdf",
+  "pages": 3,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Sonar Pro: Model Ledger profile",
+  "file": "docs/profiles/18-sonar-pro.pdf",
+  "original": "Sonar Pro - Model Ledger profile.pdf",
+  "pages": 3,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Sonar Reasoning Pro: Model Ledger profile",
+  "file": "docs/profiles/19-sonar-reasoning-pro.pdf",
+  "original": "Sonar Reasoning Pro - Model Ledger profile.pdf",
+  "pages": 3,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ },
+ {
+  "title": "Sonar Deep Research: Model Ledger profile",
+  "file": "docs/profiles/20-sonar-deep-research.pdf",
+  "original": "Sonar Deep Research - Model Ledger profile.pdf",
+  "pages": 3,
+  "version": "revised 22 October 2026",
+  "line": "Why it’s in the stack, in Tyler’s voice, and what the receipts say."
+ }
+]

@@ -1,0 +1,704 @@
+{
+ "title": "Buckingham Palace Dream",
+ "page": "dream.html",
+ "length": "19 minutes 51 seconds, credits included",
+ "youtube_video_id": "M12WWNNMavA",
+ "playlist_name": "Dream Videos",
+ "playlist_url": "https://www.youtube.com/playlist?list=PLcIlC2BzK47c",
+ "velour_videos_url": "https://www.youtube.com/playlist?list=PLab5dS8lBS7M",
+ "velour_url": "https://release.landr.com/057914148717",
+ "pictures": [
+  {
+   "page": "index",
+   "section": "hero",
+   "design_asset": "stills/TOP-PICK.jpg",
+   "label": "BUCKINGHAM PALACE DREAM · 4m41s",
+   "alt": "Tyler on a stone balcony above the clouds.",
+   "large": "assets/img/ledger/top-pick-1920.jpg",
+   "large_size": [
+    1920,
+    804
+   ],
+   "small": "assets/img/ledger/top-pick-960.jpg",
+   "small_size": [
+    960,
+    402
+   ]
+  },
+  {
+   "page": "index",
+   "section": "film teaser",
+   "design_asset": "stills/TEASER.jpg",
+   "label": "",
+   "alt": "Tyler in a red headband blowing in the wind at the palace.",
+   "large": "assets/img/ledger/teaser-1920.jpg",
+   "large_size": [
+    1920,
+    804
+   ],
+   "small": "assets/img/ledger/teaser-960.jpg",
+   "small_size": [
+    960,
+    402
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "hero",
+   "design_asset": "stills/HERO-FILM.jpg",
+   "label": "",
+   "alt": "Me holding two brooms and a sheet in front of the palace.",
+   "large": "assets/img/dream/hero-film-1920.jpg",
+   "large_size": [
+    1920,
+    804
+   ],
+   "small": "assets/img/dream/hero-film-960.jpg",
+   "small_size": [
+    960,
+    402
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "from my head to the screen",
+   "design_asset": "stills/dream made real/03m31.00s.jpg",
+   "label": "FILM 03:31",
+   "alt": "A towering dinosaur opens its mouth, revealing a pale, jellyfish-like tongue.",
+   "large": "assets/img/dream/dream-made-real/03m31.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/dream-made-real/03m31.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "from my head to the screen",
+   "design_asset": "stills/dream made real/04m21.00s.jpg",
+   "label": "FILM 04:21",
+   "alt": "Me gathering the sheet among carved stone temple buildings.",
+   "large": "assets/img/dream/dream-made-real/04m21.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/dream-made-real/04m21.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "from my head to the screen",
+   "design_asset": "stills/dream made real/04m45.00s.jpg",
+   "label": "FILM 04:45",
+   "alt": "A circular stone pool beneath beams of daylight.",
+   "large": "assets/img/dream/dream-made-real/04m45.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/dream-made-real/04m45.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "from my head to the screen",
+   "design_asset": "stills/dream made real/06m26.00s.jpg",
+   "label": "FILM 06:26",
+   "alt": "Candles around a chair in a dark royal room.",
+   "large": "assets/img/dream/dream-made-real/06m26.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/dream-made-real/06m26.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "from my head to the screen",
+   "design_asset": "stills/dream made real/07m31.50s.jpg",
+   "label": "FILM 07:31",
+   "alt": "The Queen looks down at me through the rippling pool water.",
+   "large": "assets/img/dream/dream-made-real/07m31.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/dream-made-real/07m31.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "from my head to the screen",
+   "design_asset": "stills/dream made real/09m18.50s.jpg",
+   "label": "FILM 09:18",
+   "alt": "Formal gardens and fountains below a palace.",
+   "large": "assets/img/dream/dream-made-real/09m18.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/dream-made-real/09m18.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "from my head to the screen",
+   "design_asset": "stills/dream made real/13m33.50s.jpg",
+   "label": "FILM 13:33",
+   "alt": "The Queen grimaces while throwing a wrapped present.",
+   "large": "assets/img/dream/dream-made-real/13m33.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/dream-made-real/13m33.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "my brother",
+   "design_asset": "stills/dream made real/12m24.00s_Please_Use_This_One_For_Sure.jpg",
+   "label": "FILM 12:24",
+   "alt": "My brother and me, laughing together.",
+   "large": "assets/img/dream/brother/12m24.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/brother/12m24.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "my brother",
+   "design_asset": "stills/shot-by-shot/shot-by-shot 12m12-12m24 (you and your brother only).jpg",
+   "label": "FILM 12:12–12:24",
+   "alt": "Seven moments of me telling my brother the dream and acting it out.",
+   "large": "assets/img/dream/brother/strip-12m12-12m24-4076.jpg",
+   "large_size": [
+    4076,
+    315
+   ],
+   "small": "assets/img/dream/brother/strip-12m12-12m24-2038.jpg",
+   "small_size": [
+    2038,
+    158
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "my brother (phone storyboard)",
+   "design_asset": "stills/shot-by-shot/the seven frames/12m12.00s.jpg",
+   "label": "12:12",
+   "alt": "My brother and me, moment 1 of seven in the conversation.",
+   "large": "assets/img/dream/brother/frames/12m12.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/brother/frames/12m12.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "my brother (phone storyboard)",
+   "design_asset": "stills/shot-by-shot/the seven frames/12m14.00s.jpg",
+   "label": "12:14",
+   "alt": "My brother and me, moment 2 of seven in the conversation.",
+   "large": "assets/img/dream/brother/frames/12m14.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/brother/frames/12m14.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "my brother (phone storyboard)",
+   "design_asset": "stills/shot-by-shot/the seven frames/12m16.50s.jpg",
+   "label": "12:16",
+   "alt": "My brother and me, moment 3 of seven in the conversation.",
+   "large": "assets/img/dream/brother/frames/12m16.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/brother/frames/12m16.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "my brother (phone storyboard)",
+   "design_asset": "stills/shot-by-shot/the seven frames/12m18.50s.jpg",
+   "label": "12:18",
+   "alt": "My brother listening, moment 4 of seven in the conversation.",
+   "large": "assets/img/dream/brother/frames/12m18.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/brother/frames/12m18.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "my brother (phone storyboard)",
+   "design_asset": "stills/shot-by-shot/the seven frames/12m20.00s.jpg",
+   "label": "12:20",
+   "alt": "My brother and me, moment 5 of seven in the conversation.",
+   "large": "assets/img/dream/brother/frames/12m20.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/brother/frames/12m20.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "my brother (phone storyboard)",
+   "design_asset": "stills/shot-by-shot/the seven frames/12m21.00s.jpg",
+   "label": "12:21",
+   "alt": "My brother and me, moment 6 of seven in the conversation.",
+   "large": "assets/img/dream/brother/frames/12m21.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/brother/frames/12m21.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "my brother (phone storyboard)",
+   "design_asset": "stills/shot-by-shot/the seven frames/12m24.00s.jpg",
+   "label": "12:24",
+   "alt": "My brother and me, moment 7 of seven in the conversation.",
+   "large": "assets/img/dream/brother/frames/12m24.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/brother/frames/12m24.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "the funny ones",
+   "design_asset": "stills/funny/00m45.67s.jpg",
+   "label": "00:45",
+   "alt": "Me hurrying out of a gilded palace room with a stolen fan.",
+   "large": "assets/img/dream/funny/00m45.67s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/funny/00m45.67s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "the funny ones",
+   "design_asset": "stills/funny/01m57.50s.jpg",
+   "label": "01:57",
+   "alt": "Me grinning with a clenched fist while gliding.",
+   "large": "assets/img/dream/funny/01m57.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/funny/01m57.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "the funny ones",
+   "design_asset": "stills/funny/06m33.00s.jpg",
+   "label": "06:33",
+   "alt": "Me in the pool, deciding whether to dunk my head.",
+   "large": "assets/img/dream/funny/06m33.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/funny/06m33.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "the funny ones",
+   "design_asset": "stills/funny/07m53.33s.jpg",
+   "label": "07:53",
+   "alt": "The Queen with exaggerated sagging jowls.",
+   "large": "assets/img/dream/funny/07m53.33s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/funny/07m53.33s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "the funny ones",
+   "design_asset": "stills/funny/08m55.00s.jpg",
+   "label": "08:55",
+   "alt": "Me inspecting the black pool noodle between two guards.",
+   "large": "assets/img/dream/funny/08m55.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/funny/08m55.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "the funny ones",
+   "design_asset": "stills/funny/15m56.50s.jpg",
+   "label": "15:56",
+   "alt": "Me laughing in the palace hall.",
+   "large": "assets/img/dream/funny/15m56.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/funny/15m56.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "what dreams feel like",
+   "design_asset": "stills/dream intensity/08m26.50s.jpg",
+   "label": "08:26",
+   "alt": "Me smiling in the palace garden.",
+   "large": "assets/img/dream/dream-intensity/08m26.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/dream-intensity/08m26.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "what dreams feel like",
+   "design_asset": "stills/dream intensity/08m31.50s.jpg",
+   "label": "08:31",
+   "alt": "My expression shifts to alarm.",
+   "large": "assets/img/dream/dream-intensity/08m31.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/dream-intensity/08m31.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "what dreams feel like",
+   "design_asset": "stills/dream intensity/09m10.50s.jpg",
+   "label": "09:10",
+   "alt": "Me crying in a palace room full of chandeliers.",
+   "large": "assets/img/dream/dream-intensity/09m10.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/dream-intensity/09m10.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "what dreams feel like",
+   "design_asset": "stills/dream intensity/16m20.67s.jpg",
+   "label": "16:20",
+   "alt": "A close view of me with tears on my face.",
+   "large": "assets/img/dream/dream-intensity/16m20.67s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/dream-intensity/16m20.67s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "kept on purpose",
+   "design_asset": "stills/kept on purpose/02m30.50s.jpg",
+   "label": "02:30",
+   "alt": "Me gliding with one leg dangling below the sheet.",
+   "large": "assets/img/dream/kept-on-purpose/02m30.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/kept-on-purpose/02m30.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "kept on purpose",
+   "design_asset": "stills/kept on purpose/04m08.50s.jpg",
+   "label": "04:08",
+   "alt": "Me lying on a flatter glider above the mountains.",
+   "large": "assets/img/dream/kept-on-purpose/04m08.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/kept-on-purpose/04m08.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "kept on purpose",
+   "design_asset": "stills/kept on purpose/09m54.00s.jpg",
+   "label": "09:54",
+   "alt": "A chandelier shaking as the Queen stomps.",
+   "large": "assets/img/dream/kept-on-purpose/09m54.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/kept-on-purpose/09m54.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "kept on purpose",
+   "design_asset": "stills/kept on purpose/09m58.00s.jpg",
+   "label": "09:58",
+   "alt": "Rows of glasses vibrating.",
+   "large": "assets/img/dream/kept-on-purpose/09m58.00s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/kept-on-purpose/09m58.00s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "kept on purpose",
+   "design_asset": "stills/kept on purpose/09m25.50s.jpg",
+   "label": "09:25",
+   "alt": "A startled wedding guest at Versailles, his monocle on its cord.",
+   "large": "assets/img/dream/kept-on-purpose/09m25.50s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/kept-on-purpose/09m25.50s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "kept on purpose",
+   "design_asset": "stills/kept on purpose/09m27.13s.jpg",
+   "label": "09:27",
+   "alt": "His monocle splashes into his champagne.",
+   "large": "assets/img/dream/kept-on-purpose/09m27.13s-1280.jpg",
+   "large_size": [
+    1280,
+    536
+   ],
+   "small": "assets/img/dream/kept-on-purpose/09m27.13s-640.jpg",
+   "small_size": [
+    640,
+    268
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "the receipts",
+   "design_asset": "stills/receipts/receipt 1 - Tyler, film and character sheet.jpg",
+   "label": "",
+   "alt": "My film frame beside my original character sheet.",
+   "large": "assets/img/dream/receipts/receipt-1-tyler-1878.jpg",
+   "large_size": [
+    1878,
+    640
+   ],
+   "small": "assets/img/dream/receipts/receipt-1-tyler-939.jpg",
+   "small_size": [
+    939,
+    320
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "the receipts",
+   "design_asset": "stills/receipts/receipt 2 - Maddie, film and character sheet.jpg",
+   "label": "",
+   "alt": "Maddie’s film frame beside her character sheet.",
+   "large": "assets/img/dream/receipts/receipt-2-maddie-1868.jpg",
+   "large_size": [
+    1868,
+    640
+   ],
+   "small": "assets/img/dream/receipts/receipt-2-maddie-934.jpg",
+   "small_size": [
+    934,
+    320
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "the receipts",
+   "design_asset": "stills/receipts/receipt 3 - Mom, film and character sheet.jpg",
+   "label": "",
+   "alt": "Mom’s film frame beside her character sheet.",
+   "large": "assets/img/dream/receipts/receipt-3-mom-1757.jpg",
+   "large_size": [
+    1757,
+    640
+   ],
+   "small": "assets/img/dream/receipts/receipt-3-mom-878.jpg",
+   "small_size": [
+    878,
+    320
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "the receipts",
+   "design_asset": "stills/receipts/receipt 4 - the bed, his real bedroom and the four cats.jpg",
+   "label": "",
+   "alt": "The film’s bed scene beside my real bedroom and my four cats’ character sheets.",
+   "large": "assets/img/dream/receipts/receipt-4-bed-bedroom-cats-2168.jpg",
+   "large_size": [
+    2168,
+    1028
+   ],
+   "small": "assets/img/dream/receipts/receipt-4-bed-bedroom-cats-1084.jpg",
+   "small_size": [
+    1084,
+    514
+   ]
+  },
+  {
+   "page": "dream",
+   "section": "credit roll",
+   "design_asset": "stills/memorial/Me_And_Zac_For_Memorial_Image_ChatGPT_6_Pro.PNG",
+   "label": "Picture: ChatGPT 6 Pro",
+   "alt": "My brother and me, leaning against an orange truck.",
+   "large": "assets/img/dream/memorial/memorial-1672.jpg",
+   "large_size": [
+    1672,
+    941
+   ],
+   "small": "assets/img/dream/memorial/memorial-836.jpg",
+   "small_size": [
+    836,
+    470
+   ]
+  }
+ ],
+ "silent_clip": {
+  "file": "assets/video/javelin-silent-1280.mp4",
+  "poster": "assets/video/javelin-poster-1280.jpg",
+  "size": [
+   1280,
+   536
+  ],
+  "seconds": 21,
+  "film_span": "10:49.6 to 11:10.4",
+  "sound": "none",
+  "name": "Silent javelin throw, 21 seconds"
+ }
+}
