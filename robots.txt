@@ -1,0 +1,22 @@
+# The Model Ledger
+# Search engines, and AI search tools that read a page and link back to it, are welcome.
+# AI training crawlers are not: this site holds benchmark data, including the answer key for
+# Model Ledger Round One, which should never appear in training corpora.
+
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: CCBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Applebot-Extended
+User-agent: Bytespider
+User-agent: meta-externalagent
+User-agent: cohere-training-data-crawler
+User-agent: Diffbot
+User-agent: Omgilibot
+User-agent: ImagesiftBot
+User-agent: Timpibot
+Disallow: /
+
+User-agent: *
+Allow: /
